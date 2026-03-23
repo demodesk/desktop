@@ -5,8 +5,6 @@
 **AI-powered meeting recorder for macOS**
 
 [![Version](https://img.shields.io/github/v/release/demodesk/desktop?style=flat-square&label=latest)](https://github.com/demodesk/desktop/releases/latest)
-&nbsp;
-[![Downloads](https://img.shields.io/github/downloads/demodesk/desktop/total?style=flat-square)](https://github.com/demodesk/desktop/releases)
 
 ---
 
