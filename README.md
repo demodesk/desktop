@@ -48,9 +48,8 @@ Apple menu → <strong>About This Mac</strong><br>
 ## System Requirements
 
 - **macOS 14.2 (Sonoma)** or later
-- Microphone access (prompted on first launch)
-- Screen recording permission for system audio capture
-- Signed & notarized by Apple — no security warnings
+- Microphone access 
+- System audio access
 
 ## Support
 
