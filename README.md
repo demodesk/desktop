@@ -1,39 +1,60 @@
+<div align="center">
+
 # Demodesk Desktop
 
-AI-powered meeting recorder for macOS. Records audio from any meeting app, generates transcripts and summaries, and syncs everything to your Demodesk workspace.
+**AI-powered meeting recorder for macOS**
 
-## Download for macOS
+[![Version](https://img.shields.io/github/v/release/demodesk/desktop?style=flat-square&label=latest)](https://github.com/demodesk/desktop/releases/latest)
+&nbsp;
+[![Downloads](https://img.shields.io/github/downloads/demodesk/desktop/total?style=flat-square)](https://github.com/demodesk/desktop/releases)
 
-| Chip | Download | How to check |
-|------|----------|--------------|
-| **Apple Silicon** (M1, M2, M3, M4) | [Download (.dmg)](https://github.com/demodesk/desktop/releases/latest) | Apple menu → "About This Mac" → look for "Apple M1/M2/M3/M4" |
-| **Intel** | [Download (.dmg)](https://github.com/demodesk/desktop/releases/latest) | Apple menu → "About This Mac" → look for "Intel" |
+---
 
-> Requires **macOS 14.2 (Sonoma)** or later.
->
-> Not sure which macOS version you have? Apple menu → "About This Mac" → the version is shown at the top (e.g. "macOS Sonoma 14.5").
+### Download
 
-### Windows
+| Platform | | Requires |
+|:--|:--:|--:|
+| **macOS Apple Silicon** (M1–M4) | [![Download for Apple Silicon](https://img.shields.io/badge/Download_.dmg-Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Apple-Silicon.dmg) | macOS 14.2+ |
+| **macOS Intel** | [![Download for Intel](https://img.shields.io/badge/Download_.dmg-Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Intel.dmg) | macOS 14.2+ |
+| **Windows** | *Coming Soon* | |
 
-Coming soon. [Watch this repo](https://github.com/demodesk/desktop/subscription) to get notified.
+<details>
+<summary>Not sure which Mac you have?</summary>
+<br>
+Apple menu → <strong>About This Mac</strong><br>
+<strong>Apple Silicon</strong>: shows "Apple M1", "M2", "M3", or "M4"<br>
+<strong>Intel</strong>: shows "Intel Core i5/i7/i9"
+</details>
+
+---
+
+</div>
+
+## Features
+
+🎙️ **One-click recording** — capture mic and system audio from any meeting app (Zoom, Teams, Meet, etc.)
+
+🤖 **AI transcription & summaries** — automatic meeting notes powered by Demodesk AI
+
+🔄 **Auto-sync** — recordings appear in your Demodesk workspace with full context
+
+📌 **Menu bar app** — lightweight, always ready, never in the way
 
 ## Installation
 
 1. Download the `.dmg` for your Mac (see table above)
-2. Open the `.dmg` and drag Demodesk to your Applications folder
+2. Open the `.dmg` and drag **Demodesk** to your Applications folder
 3. Launch Demodesk and sign in with your Demodesk account
 4. The app lives in your **menu bar** — click the icon to start recording
 
-## Features
+## System Requirements
 
-- **One-click recording** — capture microphone and system audio from any meeting app (Zoom, Teams, Meet, etc.)
-- **AI transcription & summaries** — automatic meeting notes powered by Demodesk AI
-- **Auto-sync** — recordings appear in your Demodesk workspace with full context
-- **Menu bar app** — lightweight, always ready, never in the way
-- **Signed & notarized by Apple** — verified for safe installation, no security warnings
-- **Auto-updates** — the app updates itself when a new version is available
+- **macOS 14.2 (Sonoma)** or later
+- Microphone access (prompted on first launch)
+- Screen recording permission for system audio capture
+- Signed & notarized by Apple — no security warnings
 
-## Feedback & Issues
+## Support
 
 - **Bug reports & feature requests**: [Open an issue](https://github.com/demodesk/desktop/issues/new/choose)
 - **Help center**: [demodesk.com/help](https://demodesk.com/help)
