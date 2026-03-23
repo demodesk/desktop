@@ -57,7 +57,7 @@ Apple menu → <strong>About This Mac</strong><br>
 ## Support
 
 - **Bug reports & feature requests**: [Open an issue](https://github.com/demodesk/desktop/issues/new/choose)
-- **Help center**: [demodesk.com/help](https://demodesk.com/help)
+- **Help center**: [help.demodesk.com](https://help.demodesk.com/en/)
 - **Email**: support@demodesk.com
 
 ## License
