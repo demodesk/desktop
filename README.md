@@ -14,7 +14,7 @@
 
 | Platform | | Requires |
 |:--|:--:|--:|
-| **macOS Apple Silicon** (M1–M4) | [![Download for Apple Silicon](https://img.shields.io/badge/Download_.dmg-Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Apple-Silicon.dmg) | macOS 14.2+ |
+| **macOS Apple Silicon** (M-series) | [![Download for Apple Silicon](https://img.shields.io/badge/Download_.dmg-Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Apple-Silicon.dmg) | macOS 14.2+ |
 | **macOS Intel** | [![Download for Intel](https://img.shields.io/badge/Download_.dmg-Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Intel.dmg) | macOS 14.2+ |
 | **Windows** | *Coming Soon* | |
 
@@ -22,7 +22,7 @@
 <summary>Not sure which Mac you have?</summary>
 <br>
 Apple menu → <strong>About This Mac</strong><br>
-<strong>Apple Silicon</strong>: shows "Apple M1", "M2", "M3", or "M4"<br>
+<strong>Apple Silicon</strong>: shows "Apple M1", "M2", "M3", "M4", or newer<br>
 <strong>Intel</strong>: shows "Intel Core i5/i7/i9"
 </details>
 
