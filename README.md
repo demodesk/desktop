@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/52395082-9b50-4b78-b7e8-9751ed25ce67" alt="recording toolbar" width="320"/>
+
+
 # Demodesk Desktop
 
 **AI-powered meeting recorder for macOS**
