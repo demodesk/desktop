@@ -5,7 +5,7 @@
 
 # Demodesk Desktop
 
-**AI-powered meeting recorder for macOS**
+**AI-powered meeting recorder for macOS and Windows**
 
 [![Version](https://img.shields.io/github/v/release/demodesk/desktop?style=flat-square&label=latest)](https://github.com/demodesk/desktop/releases/latest)
 
@@ -17,7 +17,7 @@
 |:--|:--:|--:|
 | **macOS Apple Silicon** (M-series) | [![Download for Apple Silicon](https://img.shields.io/badge/Download_.dmg-Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Apple-Silicon.dmg) | macOS 14.2+ |
 | **macOS Intel** | [![Download for Intel](https://img.shields.io/badge/Download_.dmg-Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Intel.dmg) | macOS 14.2+ |
-| **Windows** | *Coming Soon* | |
+| **Windows** | [![Download for Windows](https://img.shields.io/badge/Download_.exe-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/demodesk/desktop/releases/latest/download/Demodesk-Desktop-Windows.exe) | Windows 10+ |
 
 <details>
 <summary>Not sure which Mac you have?</summary>
@@ -39,19 +39,29 @@ Apple menu → <strong>About This Mac</strong><br>
 
 🔄 **Auto-sync** — recordings appear in your Demodesk workspace with full context
 
-📌 **Menu bar app** — lightweight, always ready, never in the way
+📌 **Menu bar / system tray app** — lightweight, always ready, never in the way
 
 ## Installation
+
+### macOS
 
 1. Download the `.dmg` for your Mac (see table above)
 2. Open the `.dmg` and drag **Demodesk** to your Applications folder
 3. Launch Demodesk and sign in with your Demodesk account
 4. The app lives in your **menu bar** — click the icon to start recording
 
+### Windows
+
+1. Download the `.exe` installer (see table above)
+2. Run the installer and follow the prompts
+3. Launch Demodesk and sign in with your Demodesk account
+4. The app lives in your **system tray** — click the icon to start recording
+
 ## System Requirements
 
 - **macOS 14.2 (Sonoma)** or later
-- Microphone access 
+- **Windows 10** or later
+- Microphone access
 - System audio access
 
 ## Support
